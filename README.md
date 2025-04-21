@@ -2,7 +2,7 @@
 
 A web application for detecting and analyzing endangered species using YOLO object detection. The application provides detailed information about detected animals, including their habitats, conservation status, and measures being taken for their protection.
 
-Deploy Link:https://endagered-species-guide.vercel.app/
+Deploy Link:https://endangerdspecies.netlify.app/
 
 ## Features
 
