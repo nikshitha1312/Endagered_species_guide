@@ -6,7 +6,7 @@ Deploy Link:https://endangerdspecies.netlify.app/
 
 ## Features
 
-- Real-time object detection using YOLO
+-  object detection using YOLO
 - Detailed information about detected animals:
   - Basic information (class, population, physical measurements)
   - Habitat information
